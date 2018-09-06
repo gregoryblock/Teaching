@@ -1,0 +1,39 @@
+1. Instruction Basics
+Common case fast
+Describe the principle of “common case fast” in computer architecture. Is there research that provides evidence for this principle? 
+
+2. Instructions, Operations, and Procedures
+Instruction size
+What is the advantage to keeping all instructions the same size? When would it be advantageous to have instructions of different sizes?
+
+3. Translation, Addresses anda Instruction Sets
+Array index versus pointer
+Explain the difference between the array index version of a C program and a version using pointer arithmetic. Which version is faster, and why? Which version is more readable, and why?
+
+4. Arithmetic for Computers
+Floating Point
+What is the difference between an integer and floating point type? Which of the two is more computationally expensive? What is the purpose of floating point, and how is imprecision handled?
+
+5. The Processor and Datapath
+Single-cycle design
+Explain why a single-cycle design is inefficient. How does this affect the principle of making the common case fast?
+
+6. Pipelining the Datapath
+Pipeline hazards
+What are the three types of pipeline hazards? Describe at least one hazard in detail.
+
+7. Memory Caching
+Multi-level caching
+How does multi-level caching reduce the cache miss penalty? How does a two-level cache affect cache design?
+
+8. Virtual Memory and Machines
+Virtual memory
+Explain how virtual memory provides protection for a program‘s address space. How is a virtual address converted to a physical address? What happens during a page fault?
+
+9. I/O and Exceptions
+Exception handling
+Describe how exceptions are handled in a non-pipelined and pipelined implementation.
+
+10. Multiprocessing
+Multi-threading
+Explain the difference between fine- and coarse-grained multi-threading.
